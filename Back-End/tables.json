@@ -1,0 +1,39 @@
+[
+  {
+    "id": "1",
+    "tableName": "Table 1",
+    "columns": ["Column 1", "Column 2", "Column 3"],
+    "rows": [
+      {
+        "Column 1": "Value 1",
+        "Column 2": "Value 2",
+        "Column 3": "Value 3"
+      },
+      {
+        "Column 1": "Value 4",
+        "Column 2": "Value 5",
+        "Column 3": "Value 6"
+      }
+ 
+    ]
+  },
+  {
+    "id": "2",
+    "tableName": "Table 2",
+    "columns": ["Column A", "Column B", "Column C"],
+    "rows": [
+      {
+        "Column A": "Value A",
+        "Column B": "Value B",
+        "Column C": "Value C"
+      },
+      {
+        "Column A": "Value X",
+        "Column B": "Value Y",
+        "Column C": "Value Z"
+      }
+
+    ]
+  }
+
+]
