@@ -2,7 +2,7 @@
 
 The Table Management App is a web application built with Node.js that allows users to create and manage tables dynamically. It provides a user-friendly interface to create tables, add rows and columns, view table details, and delete tables. The app is designed to simplify data management and organization for various use cases, such as data entry, spreadsheet-like functionality, and more.
 
-## [Front-end]
+## [Front-end](https://github.com/silenteyesoncode/Mob_DAT/blob/main/Front-End/readme.md)
 
 The front-end of the Table Management App is developed using React-native Expo. It provides a responsive and intuitive user interface for interacting with the tables. Users can create tables, add rows and columns, view table details, and delete tables using the front-end components.
 
